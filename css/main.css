@@ -4,13 +4,6 @@
     padding: 0;
 }
 
-/*debug*/
-.container {
-    background-color: red;
-    border: 1px solid black;
-    height: 900px;
-}
-
 [class^="col"] {
     border: 3px blue solid
 }
