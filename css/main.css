@@ -3,14 +3,23 @@
     margin: 0;
     padding: 0;
     color: white;
+    font-size: 18px;
 }
 
 .black-text *{
     color: black
 }
 
+[class^="col"] {
+    padding: 20px;
+}
+
 h1 {
-     margin-top: 58px;
+    margin-top: 58px;
+}
+
+h2 {
+    font-size: 30px;
 }
 
 .row {
