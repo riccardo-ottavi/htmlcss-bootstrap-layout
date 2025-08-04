@@ -8,3 +8,11 @@
 .black-text *{
     color: black
 }
+
+h1 {
+     margin-top: 58px;
+}
+
+.row {
+    margin-bottom: 24px;
+}
