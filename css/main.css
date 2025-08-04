@@ -11,6 +11,6 @@
     height: 900px;
 }
 
-.col {
+[class^="col"] {
     border: 3px blue solid
 }
